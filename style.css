@@ -1,0 +1,36 @@
+body{
+    font-family:'Playfair Display', serif;
+    background-color: rgb(235, 151, 151);
+    }
+    
+    .header_div{
+    background-color: white;
+    color: cadetblue;
+    }
+    
+    .header_div p{
+    font-family:'Playfair Display', serif;
+    color:darksalmon;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight:bold;
+    }
+    .main_div button{
+    font-family:'Playfair Display', serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+    }
+    
+    .copy_right_footer{
+    position: fixed;
+    color: indianred;
+    bottom: 0%;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(255, 255, 255);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(117, 183, 245);
+    }
